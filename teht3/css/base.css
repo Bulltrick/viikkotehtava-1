@@ -1,0 +1,12 @@
+﻿#valikko ul {
+	list-style-type: none;
+	width: auto;
+	position: relative;
+	display: block;
+	height: 89px;
+}
+#valikko li {
+	display: block;
+	float: left;
+    margin-left: 15px;
+}
